@@ -55,6 +55,10 @@ plugins:
             - Home: index.md
             - Overview:
                 - Quick Start: overview/quickstart.md
+                - Getting Started Guide: overview/getting-started-guide.md
+                - Architecture Deep Dive: overview/architecture.md
+                - End-to-End Workflows: overview/workflow.md
+                - API Reference: overview/api-reference.md
                 - Features & Guarantees: overview/features.md
                 - FAQ: overview/faq.md
                 - Performance: overview/performance.md
@@ -91,6 +95,10 @@ plugins:
             - 首页: index.md
             - 概览:
                 - 快速开始: overview/quickstart.md
+                - 入门指南: overview/getting-started-guide.md
+                - 架构详解: overview/architecture.md
+                - 端到端工作流: overview/workflow.md
+                - API 参考手册: overview/api-reference.md
                 - 特性与保障: overview/features.md
                 - 常见问题: overview/faq.md
                 - 性能: overview/performance.md
